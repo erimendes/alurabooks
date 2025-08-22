@@ -1,5 +1,7 @@
 ![Integrando seu projeto React com APIs](thumbnail.png)
 
+https://github.com/erimendes/alurabooks.git
+
 # Fork para Francisco
 # AluraBooks
 
