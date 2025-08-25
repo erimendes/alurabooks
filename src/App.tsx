@@ -4,7 +4,8 @@ import './App.css';
 import Rotas from './rotas';
 
 function App() {
-  return (<BrowserRouter>
+  return (
+    <BrowserRouter future={{ v7_relativeSplatPath: true, v7_startTransition: true }}>
       <Rotas />
     </BrowserRouter>
   );
